@@ -1,7 +1,7 @@
 # Bucks2Bar Project
 
 ## Overview
-Bucks2Bar is a web application that utilizes Bootstrap for responsive design and custom styles and scripts for enhanced functionality. This project serves as a template for building modern web applications.
+Bucks2Bar is a web application that utilizes Bootstrap for responsive design, custom styles, and scripts for enhanced functionality. This project serves as a template for building modern web applications.
 
 ## Project Structure
 ```
@@ -17,7 +17,7 @@ bucks2bar
 ## Setup Instructions
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/shahyash1136/copilot.git
    ```
 2. Navigate to the project directory:
    ```
